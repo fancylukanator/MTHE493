@@ -19,5 +19,7 @@ generate_example(image_dir, n, d, test_range, filename=filename)
 The example will show the original images, the images reconstructed from eigenfaces, and the absolute pixel differences between the originals and the reconstructions.
 Check out the branch feature/color for experimental features.
 
+Please create a new branch before pushing edits. 
+
 Contributors
 - Luke Steenge
